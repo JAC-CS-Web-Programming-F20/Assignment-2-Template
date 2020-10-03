@@ -1,0 +1,17 @@
+{
+	"require": {
+		"phpunit/phpunit": "^9.3",
+		"fzaninotto/faker": "^1.9",
+		"guzzlehttp/guzzle": "^7.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"AssignmentTwo\\": "src/"
+		}
+	},
+	"autoload-dev": {
+		"psr-4": {
+			"AssignmentTwoTests\\": "tests/"
+		}
+	}
+}
