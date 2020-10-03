@@ -63,7 +63,7 @@ Inside of the `tests` folder you will find three subfolders of test suites.
    2. Calling the correct controller
    3. Sending the correct response back to the client
 
-![Tests](Tests.png)
+![Tests](docs/Tests.png)
 
 You should develop your application in this order. Verify that the models are working from last assignment and make any adjustments as necessary (ex. rename all your `delete` model methods to `remove`). Then move on to creating the controllers and running the corresponding test suite. Finally, create the router and run the last set of tests to verify that everything is working as it should.
 
