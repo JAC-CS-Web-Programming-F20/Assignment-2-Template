@@ -19,7 +19,7 @@ abstract class AssignmentTwoTest extends TestCase
 	public static function setUpBeforeClass(): void
 	{
 		self::$client = new Client([
-			'base_uri' => 'http://apache/Assignments/2/Solution/public/'
+			'base_uri' => 'http://apache/Assignments/web-programming-f20-assignment-2-githubusername/public/'
 		]);
 
 		self::$faker = Factory::create();
