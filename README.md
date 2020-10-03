@@ -1,4 +1,4 @@
-# Assignment 2 - Routing & Controllers
+# Assignment 2 - Routing & Controllers 🚥
 
 - 💯**Worth**: 7.5%
 - 📅**Due**: October 18, 2020 @ 23:59
