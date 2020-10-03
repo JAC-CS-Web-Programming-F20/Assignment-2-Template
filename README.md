@@ -20,6 +20,7 @@ Since we'll be using [Git](https://git-scm.com/) and [GitHub Classroom](https://
 2. Follow the instructions from A1 to clone the repo if you're not sure how.
 3. You should now have a folder inside `Assignments` called `web-programming-f20-assignment-2-githubusername`.
 4. Inside of the newly cloned repo, copy all your models from A1 into `src/Models`.
+5. Create the `src/Controllers` and `src/Router` folders.
 
 ## 🖋️ Description
 
